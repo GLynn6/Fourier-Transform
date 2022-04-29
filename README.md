@@ -1,5 +1,5 @@
 # Fourier-Transform
 
-Nama = Mohamad Febrianto Manangi
-Nim = F55120086
-Kelas = B
+1.  Nama = Mohamad Febrianto Manangi
+2.  Nim = F55120086
+3.  Kelas = B
